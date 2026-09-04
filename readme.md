@@ -13,4 +13,4 @@ L'objectif était d'analyser et de traiter une image bruitée contenant plusieur
 6. Détection et localisation des voitures vertes à l'aide de bounding boxes
 
 #### *Fichier*
-**projet_traitement_image_groupeG.ipynb** : Le notebook Jupyter contient les différentes étapes du traitement de l'image, les visualisations ainsi que les résultats obtenus.
+**projet_traitement_image_groupeG.ipynb** notebook comprenant les différentes étapes du traitement de l'image, les visualisations ainsi que les résultats obtenus.
